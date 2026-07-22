@@ -45,6 +45,12 @@ For the complete public index, see [CATALOG.md](./CATALOG.md).
 3. Review free preview questions.
 4. Continue practicing in the interactive catalog.
 
+## Updating This Repository
+
+The catalog refreshes automatically every day. Run the **Update public catalog** workflow manually from GitHub Actions to refresh it on demand.
+
+Last generated: 2026-07-22
+
 ## Disclaimer
 
 CertyRush is an independent exam-preparation platform. Certification names, trademarks, and logos belong to their respective owners. Practice materials are for educational and exam-preparation purposes only and do not guarantee certification outcomes.
