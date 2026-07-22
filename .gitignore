@@ -1,0 +1,7 @@
+*
+!.gitignore
+!README.md
+!CATALOG.md
+!.github/
+!.github/workflows/
+!.github/workflows/update-catalog.yml
