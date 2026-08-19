@@ -19,200 +19,25 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v6
 
-      - name: Generate catalog Markdown
-        env:
-          API_ORIGIN: https://api.certyrush.com/api
-          SITE_ORIGIN: https://certyrush.com
-        run: |2
-                    node --input-type=module <<'NODE'
-                    import { writeFile } from 'node:fs/promises';
-          
-                    const { API_ORIGIN, SITE_ORIGIN, GITHUB_REPOSITORY = 'certyrush/catalog' } = process.env;
-                    const primaryProviders = [
-                      ['AWS', 'AWS'],
-                      ['CompTIA', 'CompTIA'],
-                      ['ServiceNow', 'ServiceNow'],
-                      ['Github', 'GitHub'],
-                      ['Microsoft', 'Microsoft'],
-                      ['Google Cloud', 'Google Cloud'],
-                      ['Cisco', 'Cisco'],
-                      ['Vmware', 'VMware'],
-                      ['Salesforce', 'Salesforce'],
-                    ];
-                    const displayNames = new Map(primaryProviders);
-                    const formatNumber = (value) => new Intl.NumberFormat('en-US').format(value || 0);
-                    const markdownCell = (value) => String(value ?? '').replaceAll('|', '\\|').replaceAll('\n', ' ');
-                    const displayName = (provider) => displayNames.get(provider.name) || provider.name;
-                    const catalogLink = (moduleId, quizId = '') => {
-                      const params = new URLSearchParams({ module: moduleId });
-                      if (quizId) params.set('quiz', quizId);
-                      return `${SITE_ORIGIN}/catalog?${params}`;
-                    };
-                    const previewQuestionCount = (totalQuestions) => {
-                      const total = Number(totalQuestions || 0);
-                      return total > 0 ? Math.min(total, Math.ceil((total * 0.3) / 5) * 5) : 0;
-                    };
-                    const requestHeaders = {
-                      Accept: 'application/json',
-                      'Accept-Language': 'en-US,en;q=0.9',
-                      Referer: `${SITE_ORIGIN}/catalog`,
-                      'User-Agent': `Mozilla/5.0 (compatible; CertyRushCatalogUpdater/1.0; +https://github.com/${GITHUB_REPOSITORY})`,
-                    };
-                    const fetchPage = async (path, page) => {
-                      const separator = path.includes('?') ? '&' : '?';
-                      const response = await fetch(`${API_ORIGIN}${path}${separator}page=${page}&size=1000`, {
-                        headers: requestHeaders,
-                      });
-                      if (!response.ok) {
-                        const body = (await response.text()).replace(/\s+/g, ' ').slice(0, 500);
-                        const ray = response.headers.get('cf-ray') || 'unavailable';
-                        throw new Error(`${path}: ${response.status} ${response.statusText}; cf-ray=${ray}; ${body}`);
-                      }
-                      return response.json();
-                    };
-                    const fetchAll = async (path) => {
-                      const pages = [await fetchPage(path, 1)];
-                      for (let page = 2; page <= Number(pages[0].pages || 1); page += 1) {
-                        pages.push(await fetchPage(path, page));
-                      }
-                      return pages.flatMap((page) => page.items || []);
-                    };
-                    const [modules, quizzes] = await Promise.all([fetchAll('/quizzes/modules'), fetchAll('/quizzes/')]);
-                    const providers = modules
-                      .map((module) => {
-                        const providerQuizzes = quizzes
-                          .filter((quiz) => String(quiz.module_id) === String(module.id))
-                          .map((quiz) => ({ ...quiz, preview_questions: previewQuestionCount(quiz.total_questions) }))
-                          .sort((left, right) => left.title.localeCompare(right.title));
-                        return {
-                          id: module.id,
-                          name: module.title,
-                          quizzes: providerQuizzes,
-                          quizCount: providerQuizzes.length,
-                          questionCount: providerQuizzes.reduce((total, quiz) => total + Number(quiz.total_questions || 0), 0),
-                        };
-                      })
-                      .filter((provider) => provider.quizCount > 0)
-                      .sort((left, right) => left.name.localeCompare(right.name));
-                    const generatedAt = new Date().toISOString().slice(0, 10);
-                    const totalQuizzes = providers.reduce((total, provider) => total + provider.quizCount, 0);
-                    const totalQuestions = providers.reduce((total, provider) => total + provider.questionCount, 0);
-                    const providerMap = new Map(providers.map((provider) => [provider.name, provider]));
-                    const featuredRows = primaryProviders
-                      .map(([sourceName, name]) => {
-                        const provider = providerMap.get(sourceName);
-                        return provider ? `| ${name} | ${formatNumber(provider.quizCount)} | ${formatNumber(provider.questionCount)} | [View exams](${catalogLink(provider.id)}) |` : '';
-                      })
-                      .filter(Boolean)
-                      .join('\n');
-                    const readme = `# CertyRush
-          
-          **Practice smarter. Prepare confidently.**
-          
-          [CertyRush](${SITE_ORIGIN}) is an IT certification exam-preparation platform with free question previews, answer explanations, practice tests, and full question banks.
-          
-          <p>
-            <a href="${SITE_ORIGIN}/catalog"><strong>Browse Exam Catalog</strong></a>
-            ·
-            <a href="./CATALOG.md"><strong>View All Providers and Exams</strong></a>
-            ·
-            <a href="${SITE_ORIGIN}/feedback"><strong>Send Feedback</strong></a>
-          </p>
-          
-          ## Exam Catalog
-          
-          The public catalog currently contains **${formatNumber(providers.length)} providers**, **${formatNumber(totalQuizzes)} exams**, and **${formatNumber(totalQuestions)} questions**.
-          
-          | Provider | Public Exams | Total Questions | Catalog |
-          | --- | ---: | ---: | --- |
-          ${featuredRows}
-          
-          For the complete public index, see [CATALOG.md](./CATALOG.md).
-          
-          ## Features
-          
-          - Free previews for supported certification exams
-          - Answers and detailed explanations
-          - Exam-style practice questions
-          - Progress tracking and full question banks
-          - Catalog across multiple certification providers
-          
-          ## How It Works
-          
-          1. Open the [CertyRush catalog](${SITE_ORIGIN}/catalog).
-          2. Select a certification provider and exam.
-          3. Review free preview questions.
-          4. Continue practicing in the interactive catalog.
-          
-          ## Updating This Repository
-          
-          The catalog refreshes automatically every day. Run the **Update public catalog** workflow manually from GitHub Actions to refresh it on demand.
-          
-          Last generated: ${generatedAt}
-          
-          ## Disclaimer
-          
-          CertyRush is an independent exam-preparation platform. Certification names, trademarks, and logos belong to their respective owners. Practice materials are for educational and exam-preparation purposes only and do not guarantee certification outcomes.
-          
-          ## Links
-          
-          - [Website](${SITE_ORIGIN})
-          - [Exam Catalog](${SITE_ORIGIN}/catalog)
-          - [Purchase Guide](${SITE_ORIGIN}/purchase-guide)
-          - [Privacy Policy](${SITE_ORIGIN}/privacy)
-          - [Terms of Service](${SITE_ORIGIN}/terms)
-          `;
-                    const providerRows = providers
-                      .map((provider) => `| [${markdownCell(displayName(provider))}](${catalogLink(provider.id)}) | ${formatNumber(provider.quizCount)} | ${formatNumber(provider.questionCount)} |`)
-                      .join('\n');
-                    const sections = providers.map((provider) => {
-                      const examRows = provider.quizzes
-                        .map((quiz) => `| [${markdownCell(quiz.title)}](${catalogLink(provider.id, quiz.id)}) | ${formatNumber(quiz.preview_questions)} | ${formatNumber(quiz.total_questions)} |`)
-                        .join('\n');
-                      return `## ${markdownCell(displayName(provider))}
-          
-          **Provider page:** [Open in CertyRush](${catalogLink(provider.id)})  
-          **Public exams:** ${formatNumber(provider.quizCount)} · **Total questions:** ${formatNumber(provider.questionCount)}
-          
-          <details>
-          <summary><strong>View ${formatNumber(provider.quizCount)} exams</strong></summary>
-          
-          <br>
-          
-          | Exam | Free Preview | Total Questions |
-          | --- | ---: | ---: |
-          ${examRows}
-          
-          </details>`;
-                    }).join('\n\n---\n\n');
-                    const catalog = `# CertyRush Certification Catalog
-          
-          This file lists the public CertyRush provider and exam catalog. Each link opens the interactive catalog on [certyrush.com](${SITE_ORIGIN}).
-          
-          Last updated: ${generatedAt}
-          
-          ## Providers
-          
-          | Provider | Exams | Questions |
-          | --- | ---: | ---: |
-          ${providerRows}
-          
-          ---
-          
-          ${sections}
-          `;
-                    await Promise.all([writeFile('README.md', readme), writeFile('CATALOG.md', catalog)]);
-                    console.log(`Generated ${providers.length} providers and ${quizzes.length} public exams.`);
-          NODE
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Generate catalog Markdown and Data
+        run: |
+          npm run catalog:generate
 
       - name: Commit catalog changes
         run: |
-          if git diff --quiet -- README.md CATALOG.md; then
+          if git diff --quiet -- README.md data/; then
             echo "Catalog is already current."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md CATALOG.md
-          git commit -m "chore: update public catalog"
+          git add README.md data/
+          # If CATALOG.md exists and is removed, we should commit the removal too.
+          git add CATALOG.md || true
+          git commit -m "chore: update public catalog and data"
           git push

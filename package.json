@@ -1,0 +1,10 @@
+{
+  "name": "certyrush-catalog",
+  "private": true,
+  "scripts": {
+    "catalog:generate": "node scripts/generate-catalog.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

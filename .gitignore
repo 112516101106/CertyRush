@@ -1,7 +1,11 @@
 *
 !.gitignore
 !README.md
-!CATALOG.md
 !.github/
 !.github/workflows/
 !.github/workflows/update-catalog.yml
+!scripts/
+!scripts/*
+!package.json
+!data/
+!data/*
