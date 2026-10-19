@@ -14,19 +14,19 @@
 
 ## Featured Providers
 
-The public catalog currently contains **187 providers**, **2,256 exams**, and **355,510 questions**.
+The public catalog currently contains **187 providers**, **2,256 exams**, and **356,587 questions**.
 
 | Provider | Public Exams | Total Questions | Catalog |
 | --- | ---: | ---: | --- |
-| AWS | 28 | 12,366 | [View exams](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e) |
+| AWS | 28 | 12,443 | [View exams](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e) |
 | CompTIA | 55 | 25,765 | [View exams](https://certyrush.com/catalog?module=fbec0aca-47db-5a50-3679-08177fa1df6f) |
 | ServiceNow | 22 | 3,755 | [View exams](https://certyrush.com/catalog?module=2131a4c4-e0d6-aaf5-b3d0-6b74ecfb9324) |
 | GitHub | 2 | 216 | [View exams](https://certyrush.com/catalog?module=3607a607-d723-49f8-9b89-d3e62d4f7516) |
-| Microsoft | 231 | 46,111 | [View exams](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9) |
-| Google Cloud | 28 | 5,837 | [View exams](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895) |
-| Cisco | 202 | 37,083 | [View exams](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc) |
+| Microsoft | 231 | 46,189 | [View exams](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9) |
+| Google Cloud | 28 | 5,861 | [View exams](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895) |
+| Cisco | 202 | 37,155 | [View exams](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc) |
 | VMware | 93 | 8,448 | [View exams](https://certyrush.com/catalog?module=4d4b99d7-0db4-4b9e-bdd0-e35d3ff82528) |
-| Salesforce | 70 | 11,137 | [View exams](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8) |
+| Salesforce | 70 | 11,192 | [View exams](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8) |
 
 ## All Providers and Exams
 
@@ -62,7 +62,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [Autodesk](https://certyrush.com/catalog?module=109e9c6d-ac53-4674-964a-fa2fce74c3a9) | 1 | 47 |
 | [Avaya](https://certyrush.com/catalog?module=73c86c2a-03b9-480f-894b-a5251489dfcc) | 49 | 3,262 |
 | [Avixa](https://certyrush.com/catalog?module=accd6c82-62f4-4a2e-9da9-8b33a0bec3b4) | 1 | 202 |
-| [AWS](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e) | 28 | 12,366 |
+| [AWS](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e) | 28 | 12,443 |
 | [Axis Communications](https://certyrush.com/catalog?module=080422eb-4222-4b1c-bebc-af2835da68af) | 2 | 333 |
 | [Bacb](https://certyrush.com/catalog?module=e4921b9f-4dd8-4557-be9b-e513fc55574a) | 2 | 452 |
 | [Bcs](https://certyrush.com/catalog?module=b043d337-6d1c-4e5a-8660-b447ab63b2bd) | 7 | 769 |
@@ -80,7 +80,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [Certnexus](https://certyrush.com/catalog?module=adf503b4-32f3-4d89-ac59-d513be643eb9) | 3 | 280 |
 | [Checkpoint](https://certyrush.com/catalog?module=4994f153-3a15-4f60-bc77-b5e4b6a2fbfa) | 22 | 5,253 |
 | [Cips](https://certyrush.com/catalog?module=b715fcca-0630-4b3a-8a32-b779853e11cf) | 5 | 288 |
-| [Cisco](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc) | 202 | 37,083 |
+| [Cisco](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc) | 202 | 37,155 |
 | [Citrix](https://certyrush.com/catalog?module=291c0d87-5939-4a4e-b6c2-7f41052bf65c) | 18 | 2,072 |
 | [Ciw](https://certyrush.com/catalog?module=f5e4064e-226b-4bee-810a-13a30f5d29fa) | 6 | 608 |
 | [Cloudera](https://certyrush.com/catalog?module=3e4cec22-f422-4aed-b0fb-83ba65102ab6) | 1 | 60 |
@@ -88,11 +88,11 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [Cncf](https://certyrush.com/catalog?module=a4f2426d-42bf-4060-afbd-d311064c1a9f) | 2 | 83 |
 | [CompTIA](https://certyrush.com/catalog?module=fbec0aca-47db-5a50-3679-08177fa1df6f) | 55 | 25,765 |
 | [Confluent](https://certyrush.com/catalog?module=5bde1b8f-e8c8-48bd-a7a3-cf8f186a1777) | 2 | 198 |
-| [Crowdstrike](https://certyrush.com/catalog?module=88ba2b2b-62e8-49bf-ad46-055b211afa5a) | 8 | 836 |
+| [Crowdstrike](https://certyrush.com/catalog?module=88ba2b2b-62e8-49bf-ad46-055b211afa5a) | 8 | 881 |
 | [Csa](https://certyrush.com/catalog?module=39a45768-4c7e-45f7-af54-68d23e56c020) | 2 | 458 |
 | [Cwnp](https://certyrush.com/catalog?module=f8e260a9-5ad9-42c6-96eb-ee46496664c6) | 15 | 1,200 |
 | [Cyber Ab](https://certyrush.com/catalog?module=29a7bd07-3581-4aad-8036-9a86b3935559) | 2 | 351 |
-| [Cyberark](https://certyrush.com/catalog?module=ab8ea3b4-35e2-4c6a-9813-ce5edc71e29b) | 11 | 1,251 |
+| [Cyberark](https://certyrush.com/catalog?module=ab8ea3b4-35e2-4c6a-9813-ce5edc71e29b) | 11 | 1,309 |
 | [Databricks](https://certyrush.com/catalog?module=a5ec0cdc-6201-6423-9789-3fb848d4276d) | 7 | 1,566 |
 | [Datadog](https://certyrush.com/catalog?module=02dc973a-4a83-40bf-a244-ea647e2a2031) | 1 | 90 |
 | [Dell](https://certyrush.com/catalog?module=cfb90d72-b494-47e6-ba6d-ff61885acce9) | 86 | 8,755 |
@@ -104,22 +104,22 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [F5](https://certyrush.com/catalog?module=fcc9941d-1960-4b21-84d7-bae391d54685) | 8 | 945 |
 | [Filemaker](https://certyrush.com/catalog?module=7ee9ddca-c9d5-4efe-a975-d948f6b92863) | 1 | 112 |
 | [Finra](https://certyrush.com/catalog?module=afb158d0-aa2d-444c-aa52-331457a4e888) | 4 | 1,284 |
-| [Fortinet](https://certyrush.com/catalog?module=4df0329e-7524-47d6-a9bd-22e8a04146cc) | 102 | 6,308 |
+| [Fortinet](https://certyrush.com/catalog?module=4df0329e-7524-47d6-a9bd-22e8a04146cc) | 102 | 6,323 |
 | [Gaqm](https://certyrush.com/catalog?module=5e2669bd-dbcc-44c1-b5ba-77905a3c1ffc) | 9 | 1,736 |
 | [Garp](https://certyrush.com/catalog?module=14eb0acd-4168-4116-97b9-b91d7b089ebf) | 2 | 287 |
 | [Genesys](https://certyrush.com/catalog?module=49a36403-67ea-45d3-ab08-c437ea783bb4) | 14 | 1,254 |
 | [Giac](https://certyrush.com/catalog?module=a5766e87-2c48-4c41-b795-d6dd014a8a80) | 17 | 5,357 |
 | [GitHub](https://certyrush.com/catalog?module=3607a607-d723-49f8-9b89-d3e62d4f7516) | 2 | 216 |
 | [Gmac](https://certyrush.com/catalog?module=8b71ffb0-de19-46d6-81dd-8857b3bc0263) | 1 | 105 |
-| [Google Cloud](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895) | 28 | 5,837 |
+| [Google Cloud](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895) | 28 | 5,861 |
 | [Guidance Software](https://certyrush.com/catalog?module=6ac108b5-9142-4d80-a7c9-384379850c0c) | 2 | 343 |
 | [Haad](https://certyrush.com/catalog?module=cbbf3a06-63a2-4dbb-8931-1a69049cde19) | 1 | 150 |
 | [Hashicorp](https://certyrush.com/catalog?module=312dbd5c-aa69-4ec3-a125-82fe46bc8581) | 4 | 751 |
 | [Hcl Software Academy](https://certyrush.com/catalog?module=92ac0b3f-b0a2-4c71-96fd-f1b7aef9784c) | 3 | 211 |
 | [Hitachi](https://certyrush.com/catalog?module=02e33cdc-c89c-4a62-a7b5-a7ea3b340167) | 4 | 259 |
-| [Hp](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7) | 81 | 6,679 |
+| [Hp](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7) | 81 | 6,814 |
 | [Hrci](https://certyrush.com/catalog?module=98540176-8778-4173-8c26-527184506751) | 5 | 1,586 |
-| [Huawei](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869) | 58 | 9,581 |
+| [Huawei](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869) | 58 | 9,668 |
 | [Iaap](https://certyrush.com/catalog?module=f1331673-c52a-486e-aa4a-a16bbd995da5) | 1 | 197 |
 | [Iapp](https://certyrush.com/catalog?module=af0cfa79-fbe0-49f0-a295-751deeb4e53e) | 7 | 1,668 |
 | [Ibm](https://certyrush.com/catalog?module=4c5e1d3a-6391-49ce-a4d2-61337428e771) | 112 | 8,821 |
@@ -130,7 +130,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [Iica](https://certyrush.com/catalog?module=0b330d3d-f1b9-4351-97a8-62a4311c853e) | 1 | 50 |
 | [Infor](https://certyrush.com/catalog?module=c5ed1083-4f04-4921-bf9c-5615372d9fc2) | 2 | 111 |
 | [Isa](https://certyrush.com/catalog?module=6a88599a-1c01-4537-b25d-b768ef82ca33) | 3 | 408 |
-| [ISACA](https://certyrush.com/catalog?module=1d4a2cab-385d-a4f1-ab75-858f331e726c) | 16 | 7,832 |
+| [ISACA](https://certyrush.com/catalog?module=1d4a2cab-385d-a4f1-ab75-858f331e726c) | 16 | 7,943 |
 | [Isaqb](https://certyrush.com/catalog?module=29439799-7383-4965-83bc-db64972c863b) | 1 | 43 |
 | [ISC](https://certyrush.com/catalog?module=26cece8d-d8da-e6ed-f281-1a224458644d) | 7 | 3,134 |
 | [Ism](https://certyrush.com/catalog?module=9dc9b52c-595f-441a-84f9-4271d40f17af) | 1 | 165 |
@@ -142,7 +142,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [Lpi](https://certyrush.com/catalog?module=e9be004b-c35e-4f58-b5e7-bfd808a93671) | 17 | 1,563 |
 | [Magento](https://certyrush.com/catalog?module=308c8157-c786-4464-9f45-dd8258e2bb14) | 5 | 522 |
 | [Mcafee](https://certyrush.com/catalog?module=39a7443b-954a-4467-b58b-e75961ec1ee5) | 3 | 317 |
-| [Microsoft](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9) | 231 | 46,111 |
+| [Microsoft](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9) | 231 | 46,189 |
 | [Mirantis](https://certyrush.com/catalog?module=92be9290-ea08-4ad1-8931-698f975a385c) | 1 | 135 |
 | [Mongodb](https://certyrush.com/catalog?module=3e91ecc5-9ea9-4074-a285-884ee4b9f22a) | 2 | 250 |
 | [Mulesoft](https://certyrush.com/catalog?module=6da2fb87-2a6c-479b-90d4-f85c3d2b543c) | 5 | 439 |
@@ -159,16 +159,16 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [Nokia](https://certyrush.com/catalog?module=83175e48-1b02-4908-898b-52c8e4376e72) | 13 | 1,252 |
 | [Novell](https://certyrush.com/catalog?module=12b08f86-fc5a-41aa-bace-3d9c42454130) | 2 | 234 |
 | [Nutanix](https://certyrush.com/catalog?module=b9b526e3-b319-4771-882f-fa663b3d1ea3) | 16 | 1,308 |
-| [Nvidia](https://certyrush.com/catalog?module=79032df1-bb83-44d9-a160-52a4c220ea27) | 8 | 768 |
+| [Nvidia](https://certyrush.com/catalog?module=79032df1-bb83-44d9-a160-52a4c220ea27) | 8 | 809 |
 | [Oceg](https://certyrush.com/catalog?module=b678ef17-e20c-4fdd-bbf7-ebdb0983e4f2) | 2 | 200 |
 | [Omnissa](https://certyrush.com/catalog?module=71cb7f61-e0aa-4df3-b6ed-6a73f954b910) | 2 | 105 |
 | [Omsb](https://certyrush.com/catalog?module=d2f3900c-eb96-4779-adb9-ac1345f35c49) | 1 | 99 |
-| [Palo Alto Networks](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36) | 28 | 3,768 |
+| [Palo Alto Networks](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36) | 28 | 3,962 |
 | [Payroll](https://certyrush.com/catalog?module=a99b124e-9441-435c-ad34-43116c20fc72) | 1 | 190 |
-| [Pecb](https://certyrush.com/catalog?module=f14cdb71-2be0-45e7-962f-0d87b757f6c1) | 13 | 1,394 |
+| [Pecb](https://certyrush.com/catalog?module=f14cdb71-2be0-45e7-962f-0d87b757f6c1) | 13 | 1,435 |
 | [Pegasystems](https://certyrush.com/catalog?module=6b699ed4-568a-460c-b932-ccd4e98b7fe9) | 22 | 1,415 |
 | [Peoplecert](https://certyrush.com/catalog?module=64145c57-e92d-4a22-85e7-a32887ef9f94) | 5 | 640 |
-| [PMI](https://certyrush.com/catalog?module=71338118-4340-8b40-9fa7-a8024c42e811) | 13 | 5,726 |
+| [PMI](https://certyrush.com/catalog?module=71338118-4340-8b40-9fa7-a8024c42e811) | 13 | 5,770 |
 | [Prince2](https://certyrush.com/catalog?module=f2f843c9-7ae2-40f2-9ea9-3db7a68a5750) | 8 | 1,903 |
 | [Prmia](https://certyrush.com/catalog?module=b451206f-ae5a-4b49-acb0-c487380331e6) | 1 | 58 |
 | [Proofpoint](https://certyrush.com/catalog?module=53a6c45f-45d2-44f5-85b8-2421d0843211) | 2 | 103 |
@@ -179,7 +179,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [Riverbed](https://certyrush.com/catalog?module=5281a22d-bade-4185-b6ab-e72225752f9f) | 6 | 1,381 |
 | [Ruckus Networks](https://certyrush.com/catalog?module=b186bd67-da1e-4891-92a8-dab65033986a) | 2 | 163 |
 | [Sailpoint](https://certyrush.com/catalog?module=e7a5ff34-55d3-48d8-8119-96fb326af8c7) | 1 | 130 |
-| [Salesforce](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8) | 70 | 11,137 |
+| [Salesforce](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8) | 70 | 11,192 |
 | [Sans](https://certyrush.com/catalog?module=f2e2415a-6a74-4e29-8bcb-cc6cd3eb70f6) | 1 | 328 |
 | [Sap](https://certyrush.com/catalog?module=e820d56b-2ebd-4af8-8863-61ad2740ec4e) | 61 | 4,804 |
 | [Sas Institute](https://certyrush.com/catalog?module=b698ec35-2e85-4cf0-9751-8fb7a48ea277) | 5 | 718 |
@@ -867,7 +867,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### AWS
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e)  
-**Public exams:** 28 · **Total questions:** 12,366
+**Public exams:** 28 · **Total questions:** 12,443
 
 <details>
 <summary><strong>View 28 exams</strong></summary>
@@ -877,7 +877,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | Exam | Free Preview | Total Questions |
 | --- | ---: | ---: |
 | [ANS-C00: AWS Certified Advanced Networking - Specialty](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=923447ed-47ba-4da3-9931-2ee3973893c4) | 115 | 377 |
-| [AWS Certified Advanced Networking - Specialty ANS-C01(New)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=24a90c15-b4ed-a6c1-55c2-b83c745b8cc6) | 90 | 296 |
+| [AWS Certified Advanced Networking - Specialty ANS-C01(New)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=24a90c15-b4ed-a6c1-55c2-b83c745b8cc6) | 95 | 306 |
 | [AWS Certified AI Practitioner AIF-C01](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=b3c1b049-2630-a16d-72ff-bebc53325af3) | 150 | 488 |
 | [AWS Certified Alexa Skill Builder - Specialty](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=0cbfe343-c2bc-4ea2-8891-9014a3a8c61a) | 20 | 59 |
 | [AWS Certified Big Data - Specialty (BDS-C00)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=d18a1b84-90f7-48c2-904e-2d6a2cb27e2f) | 30 | 85 |
@@ -890,12 +890,12 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [AWS Certified Developer - Associate DVA-C02(New)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=2ed2d282-b057-5d0c-8813-7ed94be4a4eb) | 170 | 557 |
 | [AWS Certified Developer Associate(Old)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=52394427-e72c-4cbb-aca8-7f29c5279995) | 135 | 443 |
 | [AWS Certified DevOps Engineer - Professional DOP-C02(New)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=15b88387-30b8-6a26-464a-24262bc32689) | 140 | 460 |
-| [AWS Certified Generative AI Developer - Professional AIP-C01](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=cd6d2bb6-16b3-ef0f-0359-e5c2ea71f9d1) | 40 | 127 |
+| [AWS Certified Generative AI Developer - Professional AIP-C01](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=cd6d2bb6-16b3-ef0f-0359-e5c2ea71f9d1) | 45 | 136 |
 | [AWS Certified Machine Learning - Specialty (MLS-C01)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=d63a48d3-411d-a7a7-9063-a381785ff49a) | 115 | 369 |
 | [AWS Certified Machine Learning Engineer - Associate MLA-C01](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=e1c17a45-c50b-20cd-38a1-b974749a9018) | 85 | 271 |
 | [AWS Certified SAP on AWS - Specialty PAS-C01](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=c6ecb0f2-9a47-450b-a666-293fed15bcb5) | 40 | 130 |
 | [AWS Certified Security - Specialty SCS-C02(Old)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=ad145696-148b-e42e-b3b9-3d6a6ccb8ae8) | 95 | 307 |
-| [AWS Certified Security - Specialty SCS-C03(New)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=5d7477f4-27cf-8e78-d383-254a5738466e) | 30 | 85 |
+| [AWS Certified Security - Specialty SCS-C03(New)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=5d7477f4-27cf-8e78-d383-254a5738466e) | 45 | 143 |
 | [AWS Certified Security - Specialty(Old)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=ab44abfa-25e9-4748-ad62-3f5153ff8407) | 155 | 509 |
 | [AWS Certified Solutions Architect - Associate SAA-C02(Old)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=3707dc75-aefd-47f0-bf86-3b53aa1a2415) | 250 | 822 |
 | [AWS Certified Solutions Architect - Associate SAA-C03(New)](https://certyrush.com/catalog?module=9da30118-5b61-1036-06c9-53754bb0df4e&quiz=c13d1161-e690-e37b-dce5-83ed57c6682e) | 310 | 1,019 |
@@ -1268,7 +1268,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### Cisco
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc)  
-**Public exams:** 202 · **Total questions:** 37,083
+**Public exams:** 202 · **Total questions:** 37,155
 
 <details>
 <summary><strong>View 202 exams</strong></summary>
@@ -1327,7 +1327,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [300-425: Designing Cisco Enterprise Wireless Networks (300-425 ENWLSD)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=bf4a2cba-8895-4f2b-ab89-b75fc6d36c9f) | 85 | 268 |
 | [300-430: Implementing Cisco Enterprise Wireless Networks (300-430 ENWLSI)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=4d762063-6ccf-423e-b525-0ccef040e03b) | 100 | 326 |
 | [300-435: Automating Cisco Enterprise Solutions (ENAUTO)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=777a622b-af75-4cfd-a057-cad0f2b3a663) | 70 | 233 |
-| [300-440: Designing and Implementing Cloud Connectivity (ENCC)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=d86c0580-2711-453e-a27d-724de447bca0) | 30 | 84 |
+| [300-440: Designing and Implementing Cloud Connectivity (ENCC)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=d86c0580-2711-453e-a27d-724de447bca0) | 40 | 118 |
 | [300-445: Designing and Implementing Enterprise Network Assurance](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=2ed2f6c6-4496-4eb2-bcea-3089aa1ebb09) | 20 | 57 |
 | [300-460: Implementing and Troubleshooting the Cisco Cloud Infrastructure](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=6d37473d-1d08-4cf6-a507-f5c12b39f3f6) | 30 | 96 |
 | [300-465: Designing the Cisco Cloud](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=1baf4e32-3549-4dd2-a169-bf8dc482d81b) | 20 | 60 |
@@ -1360,7 +1360,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [300-910: Implementing DevOps Solutions and Practices using Cisco Platforms (DEVOPS)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=1329c7c6-3394-4489-a3fd-06b6ded39177) | 50 | 161 |
 | [300-915: Developing Solutions Using Cisco IoT and Edge Platforms (DEVIOT)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=7d0c619d-c1e9-41c8-b098-0b0b9075ebbb) | 20 | 59 |
 | [300-920: Developing Applications for Cisco Webex and Webex Devices (DEVWBX)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=434ed2ae-d2ce-4325-b338-61868915fbc0) | 20 | 60 |
-| [350-101: Implementing and Operating Cisco Wireless Core Technologies (WLCOR)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=615d4c77-31ff-4f6f-a5bf-178a711204f5) | 35 | 102 |
+| [350-101: Implementing and Operating Cisco Wireless Core Technologies (WLCOR)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=615d4c77-31ff-4f6f-a5bf-178a711204f5) | 45 | 140 |
 | [350-201: Performing CyberOps Using Core Security Technologies (CBRCOR)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=66a6abba-655c-4377-9604-dabbabf4ff74) | 70 | 228 |
 | [350-401: Implementing Cisco Enterprise Network Core Technologies (ENCOR)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=dc7768ff-657e-45b9-9240-61b88467e93f) | 320 | 1,066 |
 | [350-501: Implementing and Operating Cisco Service Provider Network Core Technologies (SPCOR)](https://certyrush.com/catalog?module=ad1e0cee-7529-4e1d-8976-65d9fdc72cdc&quiz=9757edda-e06a-455f-a839-169c9a11df75) | 155 | 515 |
@@ -1691,7 +1691,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### Crowdstrike
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=88ba2b2b-62e8-49bf-ad46-055b211afa5a)  
-**Public exams:** 8 · **Total questions:** 836
+**Public exams:** 8 · **Total questions:** 881
 
 <details>
 <summary><strong>View 8 exams</strong></summary>
@@ -1701,7 +1701,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | Exam | Free Preview | Total Questions |
 | --- | ---: | ---: |
 | [CCCS-203b: CrowdStrike Certified Cloud Specialist](https://certyrush.com/catalog?module=88ba2b2b-62e8-49bf-ad46-055b211afa5a&quiz=faaa20b9-84ed-4cc1-aee9-4181bd0d7a28) | 20 | 60 |
-| [CCFA-200B: CrowdStrike Certified Falcon Administrator](https://certyrush.com/catalog?module=88ba2b2b-62e8-49bf-ad46-055b211afa5a&quiz=b8d8dcd2-31e9-4a24-994c-0307275a0516) | 35 | 108 |
+| [CCFA-200B: CrowdStrike Certified Falcon Administrator](https://certyrush.com/catalog?module=88ba2b2b-62e8-49bf-ad46-055b211afa5a&quiz=b8d8dcd2-31e9-4a24-994c-0307275a0516) | 50 | 153 |
 | [CCFA: CrowdStrike Certified Falcon Administrator](https://certyrush.com/catalog?module=88ba2b2b-62e8-49bf-ad46-055b211afa5a&quiz=881c6180-eb35-43e2-bbb2-2ac17b8b36a2) | 75 | 248 |
 | [CCFH-202: CrowdStrike Certified Falcon Hunter](https://certyrush.com/catalog?module=88ba2b2b-62e8-49bf-ad46-055b211afa5a&quiz=c4a030b9-7cd1-4d45-aacf-9a82e982e7de) | 30 | 88 |
 | [CCFH-202B: CrowdStrike Certified Falcon Hunter](https://certyrush.com/catalog?module=88ba2b2b-62e8-49bf-ad46-055b211afa5a&quiz=6c4ea937-3eec-4bbe-a655-528504586602) | 30 | 91 |
@@ -1786,7 +1786,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### Cyberark
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=ab8ea3b4-35e2-4c6a-9813-ce5edc71e29b)  
-**Public exams:** 11 · **Total questions:** 1,251
+**Public exams:** 11 · **Total questions:** 1,309
 
 <details>
 <summary><strong>View 11 exams</strong></summary>
@@ -1804,7 +1804,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [GUARD: CyberArk Guardian](https://certyrush.com/catalog?module=ab8ea3b4-35e2-4c6a-9813-ce5edc71e29b&quiz=3e56b8e5-3c34-4eae-8826-c868119b4542) | 20 | 59 |
 | [PAM-CDE-RECERT: CyberArk CDE Recertification](https://certyrush.com/catalog?module=ab8ea3b4-35e2-4c6a-9813-ce5edc71e29b&quiz=c01df6f8-2d63-4cd7-8d76-ba4ae254b61f) | 35 | 112 |
 | [PAM-DEF: CyberArk Defender – PAM](https://certyrush.com/catalog?module=ab8ea3b4-35e2-4c6a-9813-ce5edc71e29b&quiz=7f77478a-075a-4046-8da8-58415753ed35) | 35 | 113 |
-| [PAM-SEN: CyberArk Sentry – PAM](https://certyrush.com/catalog?module=ab8ea3b4-35e2-4c6a-9813-ce5edc71e29b&quiz=52fb8e9d-4f2b-4b98-86ab-0ec346bbf4ed) | 30 | 97 |
+| [PAM-SEN: CyberArk Sentry – PAM](https://certyrush.com/catalog?module=ab8ea3b4-35e2-4c6a-9813-ce5edc71e29b&quiz=52fb8e9d-4f2b-4b98-86ab-0ec346bbf4ed) | 50 | 155 |
 | [SECRET-SEN: CyberArk Sentry – Secrets Manager](https://certyrush.com/catalog?module=ab8ea3b4-35e2-4c6a-9813-ce5edc71e29b&quiz=099e09ab-0f95-4c12-836d-553f7b38e1ad) | 20 | 60 |
 
 </details>
@@ -2166,7 +2166,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### Fortinet
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=4df0329e-7524-47d6-a9bd-22e8a04146cc)  
-**Public exams:** 102 · **Total questions:** 6,308
+**Public exams:** 102 · **Total questions:** 6,323
 
 <details>
 <summary><strong>View 102 exams</strong></summary>
@@ -2270,7 +2270,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [NSE7_SDW-7.2: Fortinet NSE 7 - SD-WAN 7.2](https://certyrush.com/catalog?module=4df0329e-7524-47d6-a9bd-22e8a04146cc&quiz=ef9be061-c6f9-414a-a8a7-63e2e384aa16) | 25 | 70 |
 | [NSE7_SOC_AR-7.6: Fortinet NSE 7 - Security Operations 7.6 Architect](https://certyrush.com/catalog?module=4df0329e-7524-47d6-a9bd-22e8a04146cc&quiz=24a9beb2-999e-4fd3-83ea-770e31e8deb6) | 20 | 57 |
 | [NSE7_SSE_AD-25: Fortinet NSE 7 - FortiSASE 25 Enterprise Administrator](https://certyrush.com/catalog?module=4df0329e-7524-47d6-a9bd-22e8a04146cc&quiz=cc524e41-3b16-4f8e-a88f-23d61ad7db9a) | 20 | 64 |
-| [NSE7_SSE_AR-26: Fortinet NSE 7 - FortiSASE 26 Architect](https://certyrush.com/catalog?module=4df0329e-7524-47d6-a9bd-22e8a04146cc&quiz=33e1b88c-c195-456f-a247-9b67000f6bf3) | 15 | 35 |
+| [NSE7_SSE_AR-26: Fortinet NSE 7 - FortiSASE 26 Architect](https://certyrush.com/catalog?module=4df0329e-7524-47d6-a9bd-22e8a04146cc&quiz=33e1b88c-c195-456f-a247-9b67000f6bf3) | 15 | 50 |
 | [NSE7_ZTA-7.2: Fortinet NSE 7 - Zero Trust Access 7.2](https://certyrush.com/catalog?module=4df0329e-7524-47d6-a9bd-22e8a04146cc&quiz=ccdca755-47e2-4697-b846-db20c7a90b23) | 15 | 49 |
 | [NSE7: NSE7 Enterprise Firewall - FortiOS 5.4](https://certyrush.com/catalog?module=4df0329e-7524-47d6-a9bd-22e8a04146cc&quiz=c2c6fe07-5322-4864-914a-e7c6b5246a7d) | 30 | 86 |
 | [NSE8_810: Fortinet Network Security Expert 8 Written Exam (NSE8 810 - FortiOS 5.6)](https://certyrush.com/catalog?module=4df0329e-7524-47d6-a9bd-22e8a04146cc&quiz=32c66dbf-79d2-4701-a1f1-8711d9dc9c59) | 20 | 60 |
@@ -2432,7 +2432,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### Google Cloud
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895)  
-**Public exams:** 28 · **Total questions:** 5,837
+**Public exams:** 28 · **Total questions:** 5,861
 
 <details>
 <summary><strong>View 28 exams</strong></summary>
@@ -2449,7 +2449,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [Google AdWords Search Advertising](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895&quiz=326a1b30-52b5-4a13-850f-91fc457e2219) | 75 | 235 |
 | [Google Analytics: Google Analytics Individual Qualification (IQ)](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895&quiz=740df45c-042c-4ae5-aabf-793e16d87186) | 25 | 70 |
 | [Google Cloud Associate Cloud Engineer](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895&quiz=3243f6e9-c15e-ffbc-16c3-4897a4051c70) | 115 | 375 |
-| [Google Cloud Generative AI Leader](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895&quiz=08b999a0-e0aa-afe3-b27e-13f012abd7fd) | 25 | 75 |
+| [Google Cloud Generative AI Leader](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895&quiz=08b999a0-e0aa-afe3-b27e-13f012abd7fd) | 30 | 99 |
 | [Google Cloud Professional Cloud Architect](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895&quiz=6f7bac02-3bfa-db1c-da3c-e6f31e4c80c9) | 110 | 360 |
 | [Google Cloud Professional Cloud Database Engineer](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895&quiz=83793c50-34b4-e604-b738-5a65c12187f1) | 60 | 197 |
 | [Google Cloud Professional Cloud Developer](https://certyrush.com/catalog?module=439ca5ce-976d-4b36-9ae2-181f7d0cc895&quiz=7aba5f85-f381-f381-1403-0259b6f9989c) | 115 | 379 |
@@ -2576,7 +2576,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### Hp
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7)  
-**Public exams:** 81 · **Total questions:** 6,679
+**Public exams:** 81 · **Total questions:** 6,814
 
 <details>
 <summary><strong>View 81 exams</strong></summary>
@@ -2649,10 +2649,10 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [HPE6-A79: Aruba Certified Mobility Expert Written Exam](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7&quiz=d2bf4a84-c57f-48ab-a254-d6b461d6c0d2) | 20 | 55 |
 | [HPE6-A82: HPE Sales Certified - Aruba Products and Solutions](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7&quiz=0fea5646-2c29-4435-9d1d-893025d2ca89) | 20 | 60 |
 | [HPE6-A84: Aruba Certified Network Security Expert Written Exam](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7&quiz=bd375890-08b0-4ddb-9a7a-504b2a9ceddb) | 20 | 60 |
-| [HPE6-A85: HPE Network Campus Access Associate](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7&quiz=38c76a27-ad2f-4e0a-820f-06748327221b) | 30 | 96 |
+| [HPE6-A85: HPE Network Campus Access Associate](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7&quiz=38c76a27-ad2f-4e0a-820f-06748327221b) | 65 | 206 |
 | [HPE6-A86: HPE Network Switching Associate](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7&quiz=461fdba5-674d-45d5-bfa3-32da56c5ebf3) | 35 | 108 |
 | [HPE6-A88: HPE Networking ClearPass](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7&quiz=072156ff-6921-4be9-8950-b47c2ded2781) | 35 | 111 |
-| [HPE6-A90: HPE Networking Central](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7&quiz=086d229e-a6bb-4e69-badc-172da04260bb) | 25 | 76 |
+| [HPE6-A90: HPE Networking Central](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7&quiz=086d229e-a6bb-4e69-badc-172da04260bb) | 35 | 101 |
 | [HPE7-A01: HPE Network Campus Access Professional](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7&quiz=13b9ee2a-b8c6-425e-836b-4e0df72b3f89) | 50 | 161 |
 | [HPE7-A02: Aruba Certified Network Security Professional](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7&quiz=0b92bc67-096f-4220-8f22-7b809988f17b) | 40 | 118 |
 | [HPE7-A03: Aruba Certified Campus Access Architect](https://certyrush.com/catalog?module=b852f434-e50c-4632-8b3a-93d5281a65a7&quiz=fb22dafe-8cea-4256-af75-3ff3e8f6abb1) | 30 | 98 |
@@ -2696,7 +2696,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### Huawei
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869)  
-**Public exams:** 58 · **Total questions:** 9,581
+**Public exams:** 58 · **Total questions:** 9,668
 
 <details>
 <summary><strong>View 58 exams</strong></summary>
@@ -2721,10 +2721,10 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [H12-711-V4-0: HCIA-Security V4.0](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869&quiz=b950cc3c-2d92-41ba-814b-8e2abf93178d) | 95 | 307 |
 | [H12-711: HCNA-Security-CBSN (Huawei Certified Network Associate - Constructing Basic Security Network)](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869&quiz=17adfd3b-ce4b-4c45-aec9-d5582dafeb45) | 20 | 52 |
 | [H12-725-V4-0: HCIP-Security V4.0](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869&quiz=020b921e-9989-40d7-b7a6-95e2a67ca3a3) | 35 | 107 |
-| [H12-811-V2-0: HCIA-Datacom V2.0](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869&quiz=349d0b3b-c2ad-4968-bce1-b190f4858fa7) | 35 | 101 |
+| [H12-811-V2-0: HCIA-Datacom V2.0](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869&quiz=349d0b3b-c2ad-4968-bce1-b190f4858fa7) | 55 | 175 |
 | [H12-811: HCIA-Datacom V1.0](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869&quiz=2325fdaa-165d-40d3-9e68-8d4bdcc539fa) | 135 | 445 |
 | [H12-821: HCIP-Datacom-Core Technology V1.0](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869&quiz=81835da3-15b2-440b-b467-050608a4b91f) | 140 | 464 |
-| [H12-831: HCIP-Datacom-Advanced Routing & Switching Technology](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869&quiz=ad402619-040a-4473-a0e7-c7ebeff435d4) | 180 | 591 |
+| [H12-831: HCIP-Datacom-Advanced Routing & Switching Technology](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869&quiz=ad402619-040a-4473-a0e7-c7ebeff435d4) | 185 | 604 |
 | [H12-841-V1-5: HCIP-Datacom-Campus Network Planning and Deployment V1.5](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869&quiz=bac69c88-b036-42b9-aa58-ac56f129c230) | 35 | 110 |
 | [H12-891: HCIE-Datacom](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869&quiz=2684c9ae-a265-4374-8c3d-d5bb2947f90d) | 175 | 572 |
 | [H12-921-V1-0: HCIE-Data Center Network (Written) V1.0](https://certyrush.com/catalog?module=3b86ce82-44f9-42b8-8367-c5268dde2869&quiz=cc48c06e-dc89-4575-aa3f-78a8b5b69b63) | 20 | 54 |
@@ -3082,7 +3082,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### ISACA
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=1d4a2cab-385d-a4f1-ab75-858f331e726c)  
-**Public exams:** 16 · **Total questions:** 7,832
+**Public exams:** 16 · **Total questions:** 7,943
 
 <details>
 <summary><strong>View 16 exams</strong></summary>
@@ -3102,7 +3102,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [COBIT-2019: COBIT 2019 Foundation](https://certyrush.com/catalog?module=1d4a2cab-385d-a4f1-ab75-858f331e726c&quiz=f3a556c8-194f-4272-8967-696e1fe9d7c9) | 45 | 149 |
 | [COBIT-5: A Business Framework for the Governance and Management of Enterprise IT](https://certyrush.com/catalog?module=1d4a2cab-385d-a4f1-ab75-858f331e726c&quiz=52406031-69eb-4818-aa02-afe738e2bacc) | 60 | 190 |
 | [Data Science Fundamentals](https://certyrush.com/catalog?module=1d4a2cab-385d-a4f1-ab75-858f331e726c&quiz=625244d0-98ac-4edd-9534-54fb110aec49) | 15 | 42 |
-| [Isaca Advanced in AI Audit](https://certyrush.com/catalog?module=1d4a2cab-385d-a4f1-ab75-858f331e726c&quiz=6cb1979f-1cbe-81be-9f5a-05703e7e82c2) | 135 | 445 |
+| [Isaca Advanced in AI Audit](https://certyrush.com/catalog?module=1d4a2cab-385d-a4f1-ab75-858f331e726c&quiz=6cb1979f-1cbe-81be-9f5a-05703e7e82c2) | 170 | 556 |
 | [Isaca Advanced in AI Security Management](https://certyrush.com/catalog?module=1d4a2cab-385d-a4f1-ab75-858f331e726c&quiz=3b787d00-bef3-4170-8b95-41de402a1b38) | 115 | 371 |
 | [Isaca Certified in Risk and Information Systems Control](https://certyrush.com/catalog?module=1d4a2cab-385d-a4f1-ab75-858f331e726c&quiz=e1c9194e-1016-cf01-e92a-f854d79ffa5f) | 570 | 1,896 |
 | [Isaca Certified Information Security Manager](https://certyrush.com/catalog?module=1d4a2cab-385d-a4f1-ab75-858f331e726c&quiz=bd92a6a5-5ed4-7ff1-afb7-39593df43470) | 375 | 1,250 |
@@ -3460,7 +3460,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### Microsoft
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9)  
-**Public exams:** 231 · **Total questions:** 46,111
+**Public exams:** 231 · **Total questions:** 46,189
 
 <details>
 <summary><strong>View 231 exams</strong></summary>
@@ -3573,11 +3573,11 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [AB-900: Microsoft 365 Copilot and Agent Administration Fundamentals](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=0c768159-2f3c-40bf-844d-c9e1c368b24d) | 30 | 89 |
 | [AI-100: Designing and Implementing an Azure AI Solution](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=65f23db1-4193-4550-92e1-03a194bb6ada) | 70 | 218 |
 | [AI-102: Designing and Implementing a Microsoft Azure AI Solution](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=9e8fe22b-76b8-3f49-edb3-6dee6550db71) | 100 | 333 |
-| [AI-103: Developing AI Apps and Agents on Azure](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=4c59534a-d3ca-4b59-a3ce-def0b94d0e3c) | 45 | 135 |
+| [AI-103: Developing AI Apps and Agents on Azure](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=4c59534a-d3ca-4b59-a3ce-def0b94d0e3c) | 50 | 161 |
 | [AI-200: Developing AI Cloud Solutions on Azure](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=71cd16a7-4243-4613-91b5-f7a0ff0b1ccc) | 45 | 140 |
 | [AI-300: Operationalizing Machine Learning and Generative AI Solutions](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=4b184c03-4486-4845-b163-b632f135c4cb) | 55 | 170 |
 | [AI-900: Microsoft Azure AI Fundamentals](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=502dbaf5-2d71-7dc6-a7b5-1da120a449b8) | 75 | 246 |
-| [AI-901: Microsoft Azure AI Fundamentals](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=a96f54d7-41c4-4757-991d-10e2d6f38a48) | 40 | 128 |
+| [AI-901: Microsoft Azure AI Fundamentals](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=a96f54d7-41c4-4757-991d-10e2d6f38a48) | 50 | 158 |
 | [AZ-100: Microsoft Azure Infrastructure and Deployment](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=2a98222b-d687-464c-bce5-5c1c2a32b5da) | 60 | 197 |
 | [AZ-101: Microsoft Azure Integration and Security](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=e3135b65-5088-4543-9206-86f46d3b5d2e) | 35 | 103 |
 | [AZ-102: Microsoft Azure Administrator Certification Transition](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=9b4f0897-2437-428e-baf6-cf492d227983) | 25 | 76 |
@@ -3613,7 +3613,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=145a674a-52c5-45d4-ac24-9f17161d287b) | 85 | 271 |
 | [DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=5b3d7f14-506f-41fc-a585-cf935b9030ea) | 60 | 194 |
 | [DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=9f08faaf-410d-4213-53b2-73e9418c98ee) | 70 | 222 |
-| [DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=f7475f21-b1cc-51c0-bac1-5962f5018832) | 45 | 139 |
+| [DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=f7475f21-b1cc-51c0-bac1-5962f5018832) | 50 | 161 |
 | [DP-750: Implementing Data Engineering Solutions Using Azure Databricks](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=3f6b61db-6d75-4d5a-9903-6deade17ffa8) | 35 | 108 |
 | [DP-800: Developing AI-Enabled Database Solutions](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=53904e00-ee1f-4322-a198-f827014f8196) | 35 | 101 |
 | [DP-900: Microsoft Azure Data Fundamentals](https://certyrush.com/catalog?module=681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9&quiz=43a70270-38a9-230d-e7ee-2c58d326a60c) | 100 | 323 |
@@ -4062,7 +4062,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### Nvidia
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=79032df1-bb83-44d9-a160-52a4c220ea27)  
-**Public exams:** 8 · **Total questions:** 768
+**Public exams:** 8 · **Total questions:** 809
 
 <details>
 <summary><strong>View 8 exams</strong></summary>
@@ -4076,7 +4076,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [NCA-GENM: Generative AI Multimodal](https://certyrush.com/catalog?module=79032df1-bb83-44d9-a160-52a4c220ea27&quiz=1481ee87-c924-43af-a864-e6964bbe592c) | 20 | 60 |
 | [NCP-AAI: Agentic AI](https://certyrush.com/catalog?module=79032df1-bb83-44d9-a160-52a4c220ea27&quiz=dc89c6f6-2601-4d0f-81b9-9d13f693dd56) | 40 | 121 |
 | [NCP-AII: NCP-AI Infrastructure](https://certyrush.com/catalog?module=79032df1-bb83-44d9-a160-52a4c220ea27&quiz=f2588251-8ca0-41c3-9ce6-74aa6ff1d11a) | 55 | 170 |
-| [NCP-AIN: AI Networking](https://certyrush.com/catalog?module=79032df1-bb83-44d9-a160-52a4c220ea27&quiz=323e7c01-1e94-423e-ab83-7713e4f3fab4) | 25 | 70 |
+| [NCP-AIN: AI Networking](https://certyrush.com/catalog?module=79032df1-bb83-44d9-a160-52a4c220ea27&quiz=323e7c01-1e94-423e-ab83-7713e4f3fab4) | 35 | 111 |
 | [NCP-AIO: NCP - AI Operations](https://certyrush.com/catalog?module=79032df1-bb83-44d9-a160-52a4c220ea27&quiz=f98e43ea-16b4-4bd5-997e-65489b5898e5) | 20 | 66 |
 | [NCP-OUSD: NVIDIA Certified Professional - OpenUSD Development](https://certyrush.com/catalog?module=79032df1-bb83-44d9-a160-52a4c220ea27&quiz=def73ca2-db9b-46f0-b0cb-86e464c92f28) | 25 | 69 |
 
@@ -4143,7 +4143,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### Palo Alto Networks
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36)  
-**Public exams:** 28 · **Total questions:** 3,768
+**Public exams:** 28 · **Total questions:** 3,962
 
 <details>
 <summary><strong>View 28 exams</strong></summary>
@@ -4154,14 +4154,14 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | --- | ---: | ---: |
 | [ACE: Accredited Configuration Engineer](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=2006817d-36a8-45d1-9eac-b3921efcb30f) | 55 | 172 |
 | [APPRENTICE: Palo Alto Networks Cybersecurity Apprentice](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=db602da5-f11f-45ef-b48e-8f0a36fe9c2c) | 35 | 113 |
-| [CloudSec-Pro: Palo Alto Networks Cloud Security Professional](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=f09c2795-9859-44b4-92aa-f531ec18d654) | 20 | 60 |
-| [NetSec-Analyst: Palo Alto Networks Certified Network Security Analyst](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=651a5059-24bf-42b3-97a6-bc2e9d0edb46) | 20 | 58 |
+| [CloudSec-Pro: Palo Alto Networks Cloud Security Professional](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=f09c2795-9859-44b4-92aa-f531ec18d654) | 30 | 84 |
+| [NetSec-Analyst: Palo Alto Networks Certified Network Security Analyst](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=651a5059-24bf-42b3-97a6-bc2e9d0edb46) | 40 | 118 |
 | [NetSec-Architect: Palo Alto Networks Network Security Architect](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=b64900c5-5a7e-485c-922f-b1cf6296c550) | 15 | 45 |
 | [NETSEC-GENERALIST: Palo Alto Networks - Network Security Generalist](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=02e50604-3f14-4090-ae1f-486a119a3c35) | 20 | 60 |
-| [NETSEC-PRO: Palo Alto Networks Certified Network Security Professional](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=942dc888-cd19-4341-8cf7-7c5ed9b94c47) | 30 | 90 |
+| [NETSEC-PRO: Palo Alto Networks Certified Network Security Professional](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=942dc888-cd19-4341-8cf7-7c5ed9b94c47) | 35 | 108 |
 | [NGFW-Engineer: Palo Alto Networks Certified Next-Generation Firewall Engineer](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=57ab4efa-5a86-4061-9371-2d0bc645104e) | 40 | 121 |
 | [PCCET: Palo Alto Networks Certified Cybersecurity Entry-level Technician](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=564683c8-b895-402c-81ba-420f0198d134) | 80 | 254 |
-| [PCCP: Palo Alto Networks Cybersecurity Practitioner](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=d577c8a7-3243-4d6b-adb8-00d428d2ab6d) | 25 | 70 |
+| [PCCP: Palo Alto Networks Cybersecurity Practitioner](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=d577c8a7-3243-4d6b-adb8-00d428d2ab6d) | 35 | 113 |
 | [PCCSA: Palo Alto Networks Certified Cybersecurity Associate](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=02fae7c0-5aaf-4c73-9cdd-3587b03e518a) | 30 | 84 |
 | [PCCSE: Prisma Certified Cloud Security Engineer](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=ba1240ea-0497-4275-a32d-2ea535e5e215) | 80 | 252 |
 | [PCDRA: Palo Alto Networks Certified Detection and Remediation Analyst](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=42e6165c-d915-4b92-b3f0-83769d1a44b5) | 30 | 96 |
@@ -4176,9 +4176,9 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [PSE-STRATA: Palo Alto Networks System Engineer Professional - Strata](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=037aea3f-58e4-426f-a0dc-aa27d56a83a3) | 45 | 136 |
 | [SD-WAN-ENGINEER: Palo Alto Networks SD-WAN Engineer](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=e4ff3adb-aec2-4f0c-9e1f-c70bfbdcf97b) | 25 | 70 |
 | [SecOps-Pro: Palo Alto Networks Security Operations Professional](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=64577c45-4e67-47e0-9b39-1c48300961f9) | 35 | 109 |
-| [SSE-ENGINEER: Palo Alto Networks Security Service Edge Engineer](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=6150ea6f-e0c5-44d1-8e75-be79e264333d) | 25 | 68 |
+| [SSE-ENGINEER: Palo Alto Networks Security Service Edge Engineer](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=6150ea6f-e0c5-44d1-8e75-be79e264333d) | 30 | 100 |
 | [XSIAM-ANALYST: Palo Alto Networks Certified XSIAM Analyst](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=2072fa38-fc00-414c-93b7-6948650fd156) | 20 | 60 |
-| [XSIAM-ENGINEER: Palo Alto Networks XSIAM Engineer](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=29df1c75-3bb6-4237-8a0b-d862ef3d0dff) | 30 | 95 |
+| [XSIAM-ENGINEER: Palo Alto Networks XSIAM Engineer](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=29df1c75-3bb6-4237-8a0b-d862ef3d0dff) | 35 | 112 |
 | [XSOAR-ENGINEER: Palo Alto Networks XSOAR Engineer](https://certyrush.com/catalog?module=421e229b-9ebb-4d69-a613-83163f9d3e36&quiz=2859de36-fa29-4fbd-bce1-27955ac40203) | 15 | 50 |
 
 </details>
@@ -4206,7 +4206,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### Pecb
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=f14cdb71-2be0-45e7-962f-0d87b757f6c1)  
-**Public exams:** 13 · **Total questions:** 1,394
+**Public exams:** 13 · **Total questions:** 1,435
 
 <details>
 <summary><strong>View 13 exams</strong></summary>
@@ -4222,7 +4222,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [ISO IEC 42001 Lead Auditor: PECB Certified ISO/IEC 42001 Lead Auditor](https://certyrush.com/catalog?module=f14cdb71-2be0-45e7-962f-0d87b757f6c1&quiz=53f13b2f-ee79-43c7-8282-8f1545e827ad) | 25 | 70 |
 | [Lead Auditor ISO 45001: PECB Certified ISO 45001 Lead Auditor](https://certyrush.com/catalog?module=f14cdb71-2be0-45e7-962f-0d87b757f6c1&quiz=f2106d69-45e9-47e8-bfcb-f67ebb00cdd8) | 35 | 106 |
 | [Lead Auditor: ISO/IEC 27001 Lead Auditor](https://certyrush.com/catalog?module=f14cdb71-2be0-45e7-962f-0d87b757f6c1&quiz=f19b6643-edf6-456a-a31f-f66ee6fd0e6d) | 75 | 249 |
-| [Lead Implementer 42001: PECB Certified ISO/IEC 42001 Lead Implementer](https://certyrush.com/catalog?module=f14cdb71-2be0-45e7-962f-0d87b757f6c1&quiz=a9fd1893-f2bf-45b9-93fe-41c55d75d885) | 25 | 79 |
+| [Lead Implementer 42001: PECB Certified ISO/IEC 42001 Lead Implementer](https://certyrush.com/catalog?module=f14cdb71-2be0-45e7-962f-0d87b757f6c1&quiz=a9fd1893-f2bf-45b9-93fe-41c55d75d885) | 40 | 120 |
 | [Lead Implementer: PECB Certified ISO/IEC 27001 Lead Implementer](https://certyrush.com/catalog?module=f14cdb71-2be0-45e7-962f-0d87b757f6c1&quiz=471c6366-7880-432e-8f4e-008b273a7c11) | 90 | 285 |
 | [Lead SOC 2 Analyst: Lead SOC 2 Analyst](https://certyrush.com/catalog?module=f14cdb71-2be0-45e7-962f-0d87b757f6c1&quiz=0d392427-13fa-42a8-b79c-748b867d1308) | 25 | 79 |
 | [NIS 2 Directive Lead Implementer: PECB Certified NIS 2 Directive Lead Implementer](https://certyrush.com/catalog?module=f14cdb71-2be0-45e7-962f-0d87b757f6c1&quiz=9856e239-acb5-40ef-ace1-4e00df454176) | 25 | 80 |
@@ -4297,7 +4297,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### PMI
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=71338118-4340-8b40-9fa7-a8024c42e811)  
-**Public exams:** 13 · **Total questions:** 5,726
+**Public exams:** 13 · **Total questions:** 5,770
 
 <details>
 <summary><strong>View 13 exams</strong></summary>
@@ -4307,7 +4307,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | Exam | Free Preview | Total Questions |
 | --- | ---: | ---: |
 | [Certified Associate in Project Management (PMI-100)](https://certyrush.com/catalog?module=71338118-4340-8b40-9fa7-a8024c42e811&quiz=78ed6080-2a09-b6ef-e8d1-698e1cbfda1d) | 160 | 517 |
-| [CPMAI: Cognitive project management in AI](https://certyrush.com/catalog?module=71338118-4340-8b40-9fa7-a8024c42e811&quiz=52641439-67e2-4a5a-a083-e088d439279a) | 80 | 251 |
+| [CPMAI: Cognitive project management in AI](https://certyrush.com/catalog?module=71338118-4340-8b40-9fa7-a8024c42e811&quiz=52641439-67e2-4a5a-a083-e088d439279a) | 90 | 295 |
 | [DASSM: Disciplined Agile Senior Scrum Master](https://certyrush.com/catalog?module=71338118-4340-8b40-9fa7-a8024c42e811&quiz=03c72b70-1d6f-4a0e-af08-47481f8c4a75) | 15 | 50 |
 | [PfMP: Portfolio Management Professional](https://certyrush.com/catalog?module=71338118-4340-8b40-9fa7-a8024c42e811&quiz=58696f84-b832-433e-9b43-79b4079deb6b) | 85 | 270 |
 | [PgMP: Program Management Professional](https://certyrush.com/catalog?module=71338118-4340-8b40-9fa7-a8024c42e811&quiz=13ac28fd-9f32-44da-b365-c93fcf5decb5) | 215 | 713 |
@@ -4533,7 +4533,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 ### Salesforce
 
 **Provider page:** [Open in CertyRush](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8)  
-**Public exams:** 70 · **Total questions:** 11,137
+**Public exams:** 70 · **Total questions:** 11,192
 
 <details>
 <summary><strong>View 70 exams</strong></summary>
@@ -4561,7 +4561,7 @@ The public catalog currently contains **187 providers**, **2,256 exams**, and **
 | [Platform User Experience Designer](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8&quiz=a40109c1-0fea-4cd4-9881-7a13b29afae4) | 20 | 60 |
 | [Salesforce B2B Commerce for Developers Accredited Professional](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8&quiz=fc0c4322-e7f4-4032-96fe-5d89f8562a8d) | 30 | 87 |
 | [Salesforce Certified Advanced Administrator](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8&quiz=659c92bb-15d0-4dad-aa90-2a436aa13949) | 100 | 320 |
-| [Salesforce Certified Agentforce Specialist](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8&quiz=b8b2938d-4e6b-4751-99ab-c4852599d1db) | 50 | 158 |
+| [Salesforce Certified Agentforce Specialist](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8&quiz=b8b2938d-4e6b-4751-99ab-c4852599d1db) | 65 | 213 |
 | [Salesforce Certified AI Associate](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8&quiz=239a63a7-24af-47e0-969f-b9fec305d926) | 35 | 105 |
 | [Salesforce Certified AI Specialist](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8&quiz=b96e5740-2345-4754-9539-cfec3038de34) | 40 | 118 |
 | [Salesforce Certified Associate](https://certyrush.com/catalog?module=60786c2c-87ac-43b1-a858-8a408e50b6b8&quiz=95f249b2-b225-42d0-951b-87a8db1979fa) | 25 | 82 |
@@ -5678,7 +5678,7 @@ Catalog data is generated from CertyRush's public catalog API. Requires Node.js 
 npm run catalog:generate
 ```
 
-Last generated: 2026-09-05
+Last generated: 2026-10-19
 
 ## Disclaimer
 

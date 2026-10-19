@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05",
+  "generatedAt": "2026-10-19",
   "source": "https://api.certyrush.com/api/quizzes/",
   "providers": [
     {
@@ -2516,13 +2516,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 296,
+          "total_questions": 306,
           "pass_score": 70,
           "module_title": "AWS",
           "module_id": "9da30118-5b61-1036-06c9-53754bb0df4e",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 90
+          "updated_at": "2026-09-15T15:28:03.404786",
+          "preview_questions": 95
         },
         {
           "id": "b3c1b049-2630-a16d-72ff-bebc53325af3",
@@ -2646,7 +2646,7 @@
         {
           "id": "8f875291-f6ed-5961-6b80-765c8ccb9f3f",
           "title": "AWS Certified Data Engineer - Associate DEA-C01",
-          "description": "The AWS Certified Cloud Practitioner (CLF-C02) exam is intended for individuals who can effectively demonstrate overall knowledge of the AWS Cloud, independent of a specific job role.",
+          "description": "The AWS Certified Data Engineer - Associate (DEA-C01) exam focuses on building and operating data pipelines on AWS. It covers data ingestion and transformation, data store management, data operations and support, and data security and governance. Use the official AWS exam guide to confirm the current exam scope.",
           "time_limit": 5400,
           "real_questions": 65,
           "examtopics_question_count": null,
@@ -2657,7 +2657,7 @@
           "module_title": "AWS",
           "module_id": "9da30118-5b61-1036-06c9-53754bb0df4e",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
+          "updated_at": "2026-10-10T14:42:43.582447",
           "preview_questions": 110
         },
         {
@@ -2737,13 +2737,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 127,
+          "total_questions": 136,
           "pass_score": 75,
           "module_title": "AWS",
           "module_id": "9da30118-5b61-1036-06c9-53754bb0df4e",
           "is_published": true,
-          "updated_at": "2026-08-27T13:14:12.318105",
-          "preview_questions": 40
+          "updated_at": "2026-09-08T08:33:57.482662",
+          "preview_questions": 45
         },
         {
           "id": "d63a48d3-411d-a7a7-9063-a381785ff49a",
@@ -2822,13 +2822,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 85,
+          "total_questions": 143,
           "pass_score": 75,
           "module_title": "AWS",
           "module_id": "9da30118-5b61-1036-06c9-53754bb0df4e",
           "is_published": true,
-          "updated_at": "2026-07-27T03:06:27.981791",
-          "preview_questions": 30
+          "updated_at": "2026-09-11T12:20:52.334604",
+          "preview_questions": 45
         },
         {
           "id": "ab44abfa-25e9-4748-ad62-3f5153ff8407",
@@ -2968,7 +2968,7 @@
         }
       ],
       "quizCount": 28,
-      "questionCount": 12366
+      "questionCount": 12443
     },
     {
       "id": "080422eb-4222-4b1c-bebc-af2835da68af",
@@ -5108,13 +5108,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 84,
+          "total_questions": 118,
           "pass_score": 70,
           "module_title": "Cisco",
           "module_id": "ad1e0cee-7529-4e1d-8976-65d9fdc72cdc",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 30
+          "updated_at": "2026-09-09T09:09:47.713475",
+          "preview_questions": 40
         },
         {
           "id": "2ed2f6c6-4496-4eb2-bcea-3089aa1ebb09",
@@ -5669,13 +5669,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 102,
+          "total_questions": 140,
           "pass_score": 80,
           "module_title": "Cisco",
           "module_id": "ad1e0cee-7529-4e1d-8976-65d9fdc72cdc",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 35
+          "updated_at": "2026-09-09T08:33:37.674391",
+          "preview_questions": 45
         },
         {
           "id": "66a6abba-655c-4377-9604-dabbabf4ff74",
@@ -7685,7 +7685,7 @@
         }
       ],
       "quizCount": 202,
-      "questionCount": 37083
+      "questionCount": 37155
     },
     {
       "id": "291c0d87-5939-4a4e-b6c2-7f41052bf65c",
@@ -9218,13 +9218,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 108,
+          "total_questions": 153,
           "pass_score": 80,
           "module_title": "Crowdstrike",
           "module_id": "88ba2b2b-62e8-49bf-ad46-055b211afa5a",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 35
+          "updated_at": "2026-09-15T16:22:28.554204",
+          "preview_questions": 50
         },
         {
           "id": "881c6180-eb35-43e2-bbb2-2ac17b8b36a2",
@@ -9330,7 +9330,7 @@
         }
       ],
       "quizCount": 8,
-      "questionCount": 836
+      "questionCount": 881
     },
     {
       "id": "39a45768-4c7e-45f7-af54-68d23e56c020",
@@ -9845,13 +9845,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 97,
+          "total_questions": 155,
           "pass_score": 70,
           "module_title": "Cyberark",
           "module_id": "ab8ea3b4-35e2-4c6a-9813-ce5edc71e29b",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 30
+          "updated_at": "2026-09-08T08:33:57.585739",
+          "preview_questions": 50
         },
         {
           "id": "099e09ab-0f95-4c12-836d-553f7b38e1ad",
@@ -9872,7 +9872,7 @@
         }
       ],
       "quizCount": 11,
-      "questionCount": 1251
+      "questionCount": 1309
     },
     {
       "id": "a5ec0cdc-6201-6423-9789-3fb848d4276d",
@@ -14395,12 +14395,12 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "48.97",
-          "total_questions": 35,
+          "total_questions": 50,
           "pass_score": 70,
           "module_title": "Fortinet",
           "module_id": "4df0329e-7524-47d6-a9bd-22e8a04146cc",
           "is_published": true,
-          "updated_at": "2026-08-23T09:24:42.706866",
+          "updated_at": "2026-09-16T15:20:37.372520",
           "preview_questions": 15
         },
         {
@@ -14507,7 +14507,7 @@
         }
       ],
       "quizCount": 102,
-      "questionCount": 6308
+      "questionCount": 6323
     },
     {
       "id": "5e2669bd-dbcc-44c1-b5ba-77905a3c1ffc",
@@ -15471,13 +15471,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 75,
+          "total_questions": 99,
           "pass_score": 70,
           "module_title": "Google Cloud",
           "module_id": "439ca5ce-976d-4b36-9ae2-181f7d0cc895",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 25
+          "updated_at": "2026-09-16T12:25:40.359694",
+          "preview_questions": 30
         },
         {
           "id": "6f7bac02-3bfa-db1c-da3c-e6f31e4c80c9",
@@ -15804,7 +15804,7 @@
         }
       ],
       "quizCount": 28,
-      "questionCount": 5837
+      "questionCount": 5861
     },
     {
       "id": "6ac108b5-9142-4d80-a7c9-384379850c0c",
@@ -17185,13 +17185,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 96,
+          "total_questions": 206,
           "pass_score": 67,
           "module_title": "Hp",
           "module_id": "b852f434-e50c-4632-8b3a-93d5281a65a7",
           "is_published": true,
-          "updated_at": "2026-07-24T11:03:00.390526",
-          "preview_questions": 30
+          "updated_at": "2026-09-24T19:22:55.379017",
+          "preview_questions": 65
         },
         {
           "id": "461fdba5-674d-45d5-bfa3-32da56c5ebf3",
@@ -17236,13 +17236,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 76,
+          "total_questions": 101,
           "pass_score": 70,
           "module_title": "Hp",
           "module_id": "b852f434-e50c-4632-8b3a-93d5281a65a7",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 25
+          "updated_at": "2026-09-17T19:20:42.896589",
+          "preview_questions": 35
         },
         {
           "id": "13b9ee2a-b8c6-425e-836b-4e0df72b3f89",
@@ -17467,7 +17467,7 @@
         }
       ],
       "quizCount": 81,
-      "questionCount": 6679
+      "questionCount": 6814
     },
     {
       "id": "98540176-8778-4173-8c26-527184506751",
@@ -17847,13 +17847,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 101,
+          "total_questions": 175,
           "pass_score": 60,
           "module_title": "Huawei",
           "module_id": "3b86ce82-44f9-42b8-8367-c5268dde2869",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 35
+          "updated_at": "2026-09-19T04:45:25.457413",
+          "preview_questions": 55
         },
         {
           "id": "2325fdaa-165d-40d3-9e68-8d4bdcc539fa",
@@ -17898,13 +17898,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 591,
+          "total_questions": 604,
           "pass_score": 60,
           "module_title": "Huawei",
           "module_id": "3b86ce82-44f9-42b8-8367-c5268dde2869",
           "is_published": true,
-          "updated_at": "2026-09-05T09:55:34.842482",
-          "preview_questions": 180
+          "updated_at": "2026-09-08T09:26:39.724474",
+          "preview_questions": 185
         },
         {
           "id": "bac69c88-b036-42b9-aa58-ac56f129c230",
@@ -18554,7 +18554,7 @@
         }
       ],
       "quizCount": 58,
-      "questionCount": 9581
+      "questionCount": 9668
     },
     {
       "id": "f1331673-c52a-486e-aa4a-a16bbd995da5",
@@ -21233,13 +21233,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 445,
+          "total_questions": 556,
           "pass_score": 56,
           "module_title": "ISACA",
           "module_id": "1d4a2cab-385d-a4f1-ab75-858f331e726c",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 135
+          "updated_at": "2026-09-15T16:22:28.706395",
+          "preview_questions": 170
         },
         {
           "id": "3b787d00-bef3-4170-8b95-41de402a1b38",
@@ -21311,7 +21311,7 @@
         }
       ],
       "quizCount": 16,
-      "questionCount": 7832
+      "questionCount": 7943
     },
     {
       "id": "29439799-7383-4965-83bc-db64972c863b",
@@ -25868,13 +25868,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 135,
+          "total_questions": 161,
           "pass_score": 70,
           "module_title": "Microsoft",
           "module_id": "681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9",
           "is_published": true,
-          "updated_at": "2026-08-14T19:19:23.736560",
-          "preview_questions": 45
+          "updated_at": "2026-09-17T16:22:00.843204",
+          "preview_questions": 50
         },
         {
           "id": "71cd16a7-4243-4613-91b5-f7a0ff0b1ccc",
@@ -25936,13 +25936,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 128,
+          "total_questions": 158,
           "pass_score": 70,
           "module_title": "Microsoft",
           "module_id": "681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9",
           "is_published": true,
-          "updated_at": "2026-08-22T08:09:33.078754",
-          "preview_questions": 40
+          "updated_at": "2026-09-19T05:26:13.373645",
+          "preview_questions": 50
         },
         {
           "id": "2a98222b-d687-464c-bce5-5c1c2a32b5da",
@@ -26548,13 +26548,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 139,
+          "total_questions": 161,
           "pass_score": 70,
           "module_title": "Microsoft",
           "module_id": "681eba1d-2f5f-48b3-91cd-ba0c0c64cfc9",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 45
+          "updated_at": "2026-09-19T05:26:13.412391",
+          "preview_questions": 50
         },
         {
           "id": "3f6b61db-6d75-4d5a-9903-6deade17ffa8",
@@ -28020,7 +28020,7 @@
         }
       ],
       "quizCount": 231,
-      "questionCount": 46111
+      "questionCount": 46189
     },
     {
       "id": "92be9290-ea08-4ad1-8931-698f975a385c",
@@ -29642,13 +29642,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 70,
+          "total_questions": 111,
           "pass_score": 70,
           "module_title": "Nvidia",
           "module_id": "79032df1-bb83-44d9-a160-52a4c220ea27",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 25
+          "updated_at": "2026-09-15T15:28:12.337117",
+          "preview_questions": 35
         },
         {
           "id": "f98e43ea-16b4-4bd5-997e-65489b5898e5",
@@ -29686,7 +29686,7 @@
         }
       ],
       "quizCount": 8,
-      "questionCount": 768
+      "questionCount": 809
     },
     {
       "id": "b678ef17-e20c-4fdd-bbf7-ebdb0983e4f2",
@@ -29844,13 +29844,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 60,
+          "total_questions": 84,
           "pass_score": 70,
           "module_title": "Palo Alto Networks",
           "module_id": "421e229b-9ebb-4d69-a613-83163f9d3e36",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 20
+          "updated_at": "2026-09-11T12:20:52.426670",
+          "preview_questions": 30
         },
         {
           "id": "651a5059-24bf-42b3-97a6-bc2e9d0edb46",
@@ -29861,13 +29861,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 58,
+          "total_questions": 118,
           "pass_score": 70,
           "module_title": "Palo Alto Networks",
           "module_id": "421e229b-9ebb-4d69-a613-83163f9d3e36",
           "is_published": true,
-          "updated_at": "2026-07-31T03:45:38.515115",
-          "preview_questions": 20
+          "updated_at": "2026-09-14T17:20:41.213440",
+          "preview_questions": 40
         },
         {
           "id": "b64900c5-5a7e-485c-922f-b1cf6296c550",
@@ -29912,13 +29912,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 90,
+          "total_questions": 108,
           "pass_score": 70,
           "module_title": "Palo Alto Networks",
           "module_id": "421e229b-9ebb-4d69-a613-83163f9d3e36",
           "is_published": true,
-          "updated_at": "2026-07-24T11:03:04.544368",
-          "preview_questions": 30
+          "updated_at": "2026-09-15T15:28:12.934386",
+          "preview_questions": 35
         },
         {
           "id": "57ab4efa-5a86-4061-9371-2d0bc645104e",
@@ -29963,13 +29963,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 70,
+          "total_questions": 113,
           "pass_score": 70,
           "module_title": "Palo Alto Networks",
           "module_id": "421e229b-9ebb-4d69-a613-83163f9d3e36",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 25
+          "updated_at": "2026-09-15T16:22:29.414679",
+          "preview_questions": 35
         },
         {
           "id": "02fae7c0-5aaf-4c73-9cdd-3587b03e518a",
@@ -30218,13 +30218,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 68,
+          "total_questions": 100,
           "pass_score": 70,
           "module_title": "Palo Alto Networks",
           "module_id": "421e229b-9ebb-4d69-a613-83163f9d3e36",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 25
+          "updated_at": "2026-09-14T16:21:57.704355",
+          "preview_questions": 30
         },
         {
           "id": "2072fa38-fc00-414c-93b7-6948650fd156",
@@ -30252,13 +30252,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 95,
+          "total_questions": 112,
           "pass_score": 70,
           "module_title": "Palo Alto Networks",
           "module_id": "421e229b-9ebb-4d69-a613-83163f9d3e36",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 30
+          "updated_at": "2026-09-15T15:28:13.518915",
+          "preview_questions": 35
         },
         {
           "id": "2859de36-fa29-4fbd-bce1-27955ac40203",
@@ -30279,7 +30279,7 @@
         }
       ],
       "quizCount": 28,
-      "questionCount": 3768
+      "questionCount": 3962
     },
     {
       "id": "a99b124e-9441-435c-ad34-43116c20fc72",
@@ -30438,13 +30438,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 79,
+          "total_questions": 120,
           "pass_score": 70,
           "module_title": "Pecb",
           "module_id": "f14cdb71-2be0-45e7-962f-0d87b757f6c1",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 25
+          "updated_at": "2026-09-15T16:22:29.394313",
+          "preview_questions": 40
         },
         {
           "id": "471c6366-7880-432e-8f4e-008b273a7c11",
@@ -30533,7 +30533,7 @@
         }
       ],
       "quizCount": 13,
-      "questionCount": 1394
+      "questionCount": 1435
     },
     {
       "id": "6b699ed4-568a-460c-b932-ccd4e98b7fe9",
@@ -31040,13 +31040,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 251,
+          "total_questions": 295,
           "pass_score": 70,
           "module_title": "PMI",
           "module_id": "71338118-4340-8b40-9fa7-a8024c42e811",
           "is_published": true,
-          "updated_at": "2026-08-29T13:14:47.342292",
-          "preview_questions": 80
+          "updated_at": "2026-09-15T16:22:32.992330",
+          "preview_questions": 90
         },
         {
           "id": "03c72b70-1d6f-4a0e-af08-47481f8c4a75",
@@ -31237,7 +31237,7 @@
         }
       ],
       "quizCount": 13,
-      "questionCount": 5726
+      "questionCount": 5770
     },
     {
       "id": "f2f843c9-7ae2-40f2-9ea9-3db7a68a5750",
@@ -32267,13 +32267,13 @@
           "examtopics_question_count": null,
           "price": 499000,
           "international_price_usd": "49.97",
-          "total_questions": 158,
+          "total_questions": 213,
           "pass_score": 65,
           "module_title": "Salesforce",
           "module_id": "60786c2c-87ac-43b1-a858-8a408e50b6b8",
           "is_published": true,
-          "updated_at": "2026-07-22T12:15:03.484954",
-          "preview_questions": 50
+          "updated_at": "2026-09-08T08:34:00.889775",
+          "preview_questions": 65
         },
         {
           "id": "239a63a7-24af-47e0-969f-b9fec305d926",
@@ -33127,7 +33127,7 @@
         }
       ],
       "quizCount": 70,
-      "questionCount": 11137
+      "questionCount": 11192
     },
     {
       "id": "f2e2415a-6a74-4e29-8bcb-cc6cd3eb70f6",
